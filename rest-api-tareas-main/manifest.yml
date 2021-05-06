@@ -1,0 +1,5 @@
+---
+applications:
+- name: tareas-api-veronica
+  random-route: true
+  memory: 128M
